@@ -1,0 +1,1 @@
+[{"titulo":"mochila1","descripcion":"utiles1","precio":10000,"imagen":"imagen1","codigo":"abc123","stock":10,"id":1},{"titulo":"mochila2","descripcion":"utiles2","precio":10000,"imagen":"imagen2","codigo":"abc124","stock":5,"id":2}]
